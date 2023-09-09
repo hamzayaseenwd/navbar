@@ -1,7 +1,6 @@
 *{
     margin: 0;
     padding: 0;
-    list-style: none;
 }
 header {
     background-color: red;
@@ -10,11 +9,11 @@ header {
     padding: 10px ;
 }
 h1 a {
+    color: yellow;
     text-decoration: none;
     display: inline;
 }
 h1 a:hover{
-    background-color: yellow;
     color: black;
     text-decoration: underline;
 }
