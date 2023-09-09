@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+header {
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 10px ;
+}
+h1 a {
+    text-decoration: none;
+    display: inline;
+}
+h1 a:hover{
+    background-color: yellow;
+    color: black;
+    text-decoration: underline;
+}
+nav ul {
+    text-align: center;
+    display: inline;
+}
+nav li {
+    display: inline;
+    margin: 10px;
+}
+nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+nav a:hover {
+    background-color: yellow;
+    color: black;
+    text-decoration: underline;
+}
